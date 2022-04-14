@@ -1,0 +1,27 @@
+THINKIUM NODES INSTALLATION DEPLOY TUTORIAL.
+ 
+In the community of cryptocurrency today, a blockchain network is essential for information spreading and easy working environment. Thinkium is not left out on this, being a fast growing and most reliable community, her nodes blockchain is seen to be the best and most secured. 
+This article is bent on giving a tutorial of the step by step procedure of node installation. 
+Firstly, we’ll break down the article for better understanding. 
+•	Thinkium: Thinkium is an all-around public blockchain network, which achieves unlimited scalability at a linear cost by running through a multi-layer multi-chain structure. It’s features are listed below, 
+•	Metaverse, 
+•	DApp development, 
+•	Developer Bounty plan, 
+•	Decentralized Exchange (DEX), 
+Mining, etc. 
+•	Blockchain node: a node is an indispensable and fundamental component of the blockchain network, which is the decentralised ledger used for maintaining any cryptocurrency. A blockchain consists of different blocks of data, and the node stands as a storage point or memory for all these data. Just as in the engineering field, (electrical engineering), in a nodal analysis of an electrical circuit, we understand that, a nodal point is a point where electrical currents move out and come in the to the junction. Same came be related to the blockchain node. All information and activities is stored in the node and the blockchain is a channel or connection means of all branches. 
+•	Thinkium node installation: At this point, we now understand what the blockchain node is and how it is related to Thinkium. Installation of the node can be done in the following ways listed below. 
+•	Step 1 – INSTALL THE SECURECRT SOFTWARE 
+•	STEP 2 – GO TO THE CONFIGURATION FOLDER AND ENTER “CD THINKIUM /CONF/
+•	STEP 3 – GET THE PRIVATE KEY OF THE RANDOM NODE AND PASTE TO THE CONFIGURATION FILE KEY GEN. 
+•	STEP 4 – START THE CODE
+•	STEP 5 – CONFIGURE THE NODE AND COMPLETE THE VOTING INFORMATION IN TUKE. 
+You are good to go……… 
+
+CONCLUSION. 
+As earlier said, Thinkium is one of the most secured and organized cryptocurrency community in the world, and this article, I believe has in details, explained he installation procedure of a Node. 
+Related links
+Official website: https://www.thinkium.net/
+Github: https://github.com/ThinkiumGroup/wiki
+Discord developer invite link: https://discord.gg/tVZQBfHgXu
+
